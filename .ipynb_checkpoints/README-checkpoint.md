@@ -10,10 +10,10 @@
 
 ## Example adding transaction block to ledger: 
 
-![pychainledger.jpg]
+!(pychainledger.jpg)
 
 ## Example validating chain:
 
-![pychainvalidator.jpg]
+!(pychainvalidator.jpg)
 
 ---
