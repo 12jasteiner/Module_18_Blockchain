@@ -14,6 +14,6 @@
 
 ## Example validating chain:
 
-![pychainvalidator.jpg)
+![validate chain:](pychainvalidator.jpg)
 
 ---
